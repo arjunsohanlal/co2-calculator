@@ -1,0 +1,15 @@
+{
+  "name": "co2-calculator",
+  "version": "1.0.0",
+  "description": "Simple nodeJS-based emissions calculator - submission for Climate 21 assessment",
+  "main": "co2-calculator.js",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arjun Sohanlal <arjunsohanlal@gmail.com>",
+  "license": "ISC"
+}
